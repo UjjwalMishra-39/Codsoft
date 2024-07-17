@@ -1,2 +1,3 @@
 # Codsoft
-Repository fo all the internship tasks
+This repository contains the videos and a design image of following tasks that I performed for my "UI/UX Designer internship"
+
